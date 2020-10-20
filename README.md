@@ -1,4 +1,4 @@
-# Bonkers_chat
+# Bonkers_chat 🤪
  Simple chat app using Flutter , Dart and Firebase
 
    
