@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "595620020022",
+    "firebase_url": "https://bonkers-chat.firebaseio.com",
+    "project_id": "bonkers-chat",
+    "storage_bucket": "bonkers-chat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:595620020022:android:893ba449cf36aa92363d97",
+        "android_client_info": {
+          "package_name": "com.bonkers.bonkers_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "595620020022-5dhgfv6nps9nak303ksg1m6527k9o82d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBrl6tfL2dxBqxZyerVG0b0ZQQzO9mvuM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "595620020022-5dhgfv6nps9nak303ksg1m6527k9o82d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
